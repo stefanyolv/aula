@@ -1,1 +1,2 @@
 Seja Bem Vindo!
+Ao curso de GIT
